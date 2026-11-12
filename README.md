@@ -18,5 +18,5 @@ The code was developed and tested with Python 3.11. Earlier versions of Python m
 
 Required packages:
 ```
-numpy pandas scipy matplotlib joblib openpyxl
+numpy pandas scipy matplotlib seaborn joblib scikit-learn
 ```
