@@ -2,7 +2,7 @@
 
 Simulation code for **CoCo-PaLM (Cognitive Control, Production, and Learning Model)**.
 
-For more details, please refer to our paper: Hu, S., Verguts, T., & Nozari, N. (2026). A learning account of cognitive control in word production: A path to new insights into the domain generality of control [Manuscript in preparation].
+For more details, please refer to our paper: Hu, S., Verguts, T., & Nozari, N. (2026). A learning account of cognitive control in word production: A path to new insights into the domain generality of control [Preprint](https://osf.io/preprints/psyarxiv/kg8f2_v1).
 
 ## Contents
 
